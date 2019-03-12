@@ -1,4 +1,4 @@
-package chaptwo;
+package chap2;
 
 /**
  * @Author: ZST
